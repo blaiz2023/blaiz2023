@@ -1,5 +1,4 @@
 # Blaiz Enterprises
-123 <small>456</small><small>This is smaller text.</small>
 
 <a href="https://github.com/blaiz2023/PixelSnatcher/"><span style="display:inline-block;"><img src="./images/pixelsnatcher-64.png"><br><small>Pixel Snatcher</small></span></a><br>
 <a href="https://github.com/blaiz2023/ImageViewer/"><img src="./images/imageviewer-64.png">Image Viewer</a><br>
