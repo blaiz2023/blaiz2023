@@ -18,3 +18,5 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/TheHolyBible/"><img valign=middle width=24 height=24 src="./images/theholybible-64.png"> The Holy Bible</a>
 &nbsp; &nbsp;
+<a href="https://github.com/blaiz2023/Harmony/"><img valign=middle width=24 height=24 src="./images/harmony-64.png"> Harmony</a>
+&nbsp; &nbsp;
