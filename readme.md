@@ -12,3 +12,4 @@
 <a href="https://github.com/blaiz2023/KingJamesBible/"><img valign=middle width=24 height=24 src="./images/kingjamesbible-64.png"> King James Bible</a> &nbsp; 
 <a href="https://github.com/blaiz2023/DebugHelper/"><img valign=middle width=24 height=24 src="./images/dhelp-64.png"> Debug Helper</a> &nbsp; 
 <a href="https://github.com/blaiz2023/TheHolyBible/"><img valign=middle width=24 height=24 src="./images/theholybible-64.png"> The Holy Bible</a> &nbsp; 
+ 
