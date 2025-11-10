@@ -20,3 +20,5 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/Harmony/"><img valign=middle width=24 height=24 src="./images/harmony-64.png"> Harmony</a>
 &nbsp; &nbsp;
+<a href="https://github.com/blaiz2023/Dougi/"><img valign=middle width=24 height=24 src="./images/dougi-64.png"> Dougi</a>
+&nbsp; &nbsp;
