@@ -28,5 +28,5 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/Clic/"><img valign=middle width=24 height=24 src="./images/clic-64.png"> Clic</a>
 &nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/PickZoom/"><img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</a>
+<a href="https://github.com/blaiz2023/PickZoom/"><span></span>img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</span></a>
 &nbsp; &nbsp;
