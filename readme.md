@@ -36,3 +36,5 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>
 &nbsp; &nbsp;
+<a href="https://github.com/blaiz2023/DesktopWallpapers/"><img valign=middle width=24 height=24 src="./images/wallpapers-64.png"> Desktop Wallpapers</a>
+&nbsp; &nbsp;
