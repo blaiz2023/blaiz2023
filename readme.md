@@ -32,3 +32,5 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/Text2EXE/"><img valign=middle width=24 height=24 src="./images/text2exe-64.png"> Text2EXE</a>
 &nbsp; &nbsp;
+<a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>
+&nbsp; &nbsp;
