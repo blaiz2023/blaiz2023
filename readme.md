@@ -30,6 +30,8 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/Clic/"><img valign=middle width=24 height=24 src="./images/clic-64.png"> Clic</a>
 &nbsp; &nbsp;
+<a href="https://github.com/blaiz2023/HexColor/"><img valign=middle width=24 height=24 src="./images/hexcolor-64.png"> Clic</a>
+&nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/PickZoom/"><img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</a>
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/Text2EXE/"><img valign=middle width=24 height=24 src="./images/text2exe-64.png"> Text2EXE</a>
