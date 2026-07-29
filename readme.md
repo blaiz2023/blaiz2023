@@ -1,5 +1,5 @@
 # Blaiz Enterprises
-<p>
+<div>
 <a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/ImageViewer/"><img valign=middle width=24 height=24 src="./images/imageviewer-64.png"> Image Viewer</a>
@@ -44,6 +44,6 @@
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>
 &nbsp; &nbsp;
-</p>
+</div>
 <a href="https://github.com/blaiz2023/DesktopWallpapers/"><img valign=middle width=24 height=24 src="./images/wallpapers-64.png"> Desktop Wallpapers</a>
 &nbsp; &nbsp;
