@@ -9,12 +9,12 @@
 </p>
 
 <p>
-<a href="https://github.com/blaiz2023/KingJamesBible/"><img valign=middle width=24 height=24 src="./images/kingjamesbible-64.png"> King James Bible</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/DebugHelper/"><img valign=middle width=24 height=24 src="./images/dhelp-64.png"> Debug Helper</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/TheHolyBible/"><img valign=middle width=24 height=24 src="./images/theholybible-64.png"> The Holy Bible</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Harmony/"><img valign=middle width=24 height=24 src="./images/harmony-64.png"> Harmony</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Dougi/"><img valign=middle width=24 height=24 src="./images/dougi-64.png"> Dougi</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/AnimationViewer/"><img valign=middle width=24 height=24 src="./images/av-64.png"> Animation Viewer</a>
+<a href="https://github.com/blaiz2023/KingJamesBible/">King James Bible</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/DebugHelper/">Debug Helper</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/TheHolyBible/">The Holy Bible</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Harmony/">Harmony</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Dougi/">Dougi</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/AnimationViewer/">Animation Viewer</a>
 </p>
 
 <p>
