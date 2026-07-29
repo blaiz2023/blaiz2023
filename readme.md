@@ -1,4 +1,11 @@
 # Blaiz Enterprises
+<p>
+  <a href="https://example.com">Home</a>&nbsp;&nbsp;
+  <a href="https://example.com/docs">Docs</a>&nbsp;&nbsp;
+  <a href="https://example.com/contact">Contact</a>
+</p>
+
+
 <div>
 <a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>
 &nbsp; &nbsp;
