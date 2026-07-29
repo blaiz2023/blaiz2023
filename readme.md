@@ -1,10 +1,8 @@
 # Blaiz Enterprises
 <p>
-<a href="https://github.com/blaiz2023/PixelSnatcher/">Pixel Snatcher</a>
-Snatch pixels from your screen and convert into translucent tool images in PNG, GIF, ICO and TEA image formats with ease. Create modern monochromatic tool images in seconds for your app, web app, or Gossamer app. Click capture, hover mouse cursor over screen area to acquire image, adjust color conversion settings if required, and copy/save.
+<a href="https://github.com/blaiz2023/PixelSnatcher/">Pixel Snatcher</a> - Snatch pixels from your screen and convert into translucent tool images in PNG, GIF, ICO and TEA image formats with ease. Create modern monochromatic tool images in seconds for your app, web app, or Gossamer app. Click capture, hover mouse cursor over screen area to acquire image, adjust color conversion settings if required, and copy/save.
 
-<a href="https://github.com/blaiz2023/ImageViewer/">Image Viewer</a>&nbsp;&nbsp;
-View images in a folder or play a slideshow. Simple with Image Viewer.
+<a href="https://github.com/blaiz2023/ImageViewer/">Image Viewer</a> - View images in a folder or play a slideshow. Simple with Image Viewer.
 
 <a href="https://github.com/blaiz2023/Blaiz-Tools/">Blaiz Tools</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/Cynthia/">Cynthia</a>&nbsp;&nbsp;
