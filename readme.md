@@ -1,33 +1,27 @@
 # Blaiz Enterprises
 <p>
-<a href="https://github.com/blaiz2023/PixelSnatcher/">Pixel&nbsp;Snatcher</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/ImageViewer/">Image&nbsp;Viewer</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Blaiz-Tools/">Blaiz&nbsp;Tools</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/PixelSnatcher/">Pixel Snatcher</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/ImageViewer/">Image Viewer</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Blaiz-Tools/">Blaiz Tools</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/Cynthia/">Cynthia</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/Synthesiser/">Synthesiser</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Multi-Icon/">Multi&nbsp;Icon</a>
-</p>
+<a href="https://github.com/blaiz2023/Multi-Icon/">Multi Icon</a>
 
-<p>
 <a href="https://github.com/blaiz2023/KingJamesBible/">King James Bible</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/DebugHelper/">Debug Helper</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/TheHolyBible/">The Holy Bible</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/Harmony/">Harmony</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/Dougi/">Dougi</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/AnimationViewer/">Animation Viewer</a>
-</p>
 
-<p>
-<a href="https://github.com/blaiz2023/Infinite/"><img valign=middle width=24 height=24 src="./images/infinite-64.png"> Infinite</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Clic/"><img valign=middle width=24 height=24 src="./images/clic-64.png"> Clic</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/HexColor/"><img valign=middle width=24 height=24 src="./images/hexcolor-64.png"> HexColor</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/PickZoom/"><img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/Text2EXE/"><img valign=middle width=24 height=24 src="./images/text2exe-64.png"> Text2EXE</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/MixedCursorCollection/"><img valign=middle width=24 height=24 src="./images/mixedcursorcollection-64.png"> Mixed Cursor Collection</a>&nbsp;&nbsp;
-</p>
+<a href="https://github.com/blaiz2023/Infinite/">Infinite</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Clic/">Clic</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/HexColor/">HexColor</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/PickZoom/">PickZoom</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Text2EXE/">Text2EXE</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/MixedCursorCollection/">Mixed Cursor Collection</a>&nbsp;&nbsp;
 
-<p>
-<a href="https://github.com/blaiz2023/YellowCursorCollection/"><img valign=middle width=24 height=24 src="./images/yellowcursorcollection-64.png"> Yellow Cursors</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/DesktopWallpapers/"><img valign=middle width=24 height=24 src="./images/wallpapers-64.png"> Desktop Wallpapers</a>
+<a href="https://github.com/blaiz2023/YellowCursorCollection/">Yellow Cursors</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/CursorCollections/">Cursor Collections</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/DesktopWallpapers/">Desktop Wallpapers</a>
 </p>
