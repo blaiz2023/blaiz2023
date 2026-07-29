@@ -1,6 +1,6 @@
 # Blaiz Enterprises
 
-<a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>
+<a style="display:inline" href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>
 &nbsp; &nbsp;
 <a href="https://github.com/blaiz2023/ImageViewer/"><img valign=middle width=24 height=24 src="./images/imageviewer-64.png"> Image Viewer</a>
 &nbsp; &nbsp;
