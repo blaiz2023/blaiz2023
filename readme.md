@@ -1,56 +1,33 @@
 # Blaiz Enterprises
 <p>
-  <a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png">Pixel Snatcher</a>&nbsp;&nbsp;
-  <a href="https://example.com/docs">Docs</a>&nbsp;&nbsp;
-  <a href="https://example.com/contact">Contact</a>
+<a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/ImageViewer/"><img valign=middle width=24 height=24 src="./images/imageviewer-64.png"> Image Viewer</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Blaiz-Tools/"><img valign=middle width=24 height=24 src="./images/blaiztools-64.png"> Blaiz Tools</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Cynthia/"><img valign=middle width=24 height=24 src="./images/cynthia-64.png"> Cynthia</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Synthesiser/"><img valign=middle width=24 height=24 src="./images/synthesiser-64.png"> Synthesiser</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Multi-Icon/"><img valign=middle width=24 height=24 src="./images/multiicon-64.png"> Multi Icon</a>
 </p>
 
-
-<div>
-<a href="https://github.com/blaiz2023/PixelSnatcher/"><img valign=middle width=24 height=24 src="./images/pixelsnatcher-64.png"> Pixel Snatcher</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/ImageViewer/"><img valign=middle width=24 height=24 src="./images/imageviewer-64.png"> Image Viewer</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Blaiz-Tools/"><img valign=middle width=24 height=24 src="./images/blaiztools-64.png"> Blaiz Tools</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Cynthia/"><img valign=middle width=24 height=24 src="./images/cynthia-64.png"> Cynthia</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Synthesiser/"><img valign=middle width=24 height=24 src="./images/synthesiser-64.png"> Synthesiser</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Multi-Icon/"><img valign=middle width=24 height=24 src="./images/multiicon-64.png"> Multi Icon</a>
-<br>
-
-<a href="https://github.com/blaiz2023/KingJamesBible/"><img valign=middle width=24 height=24 src="./images/kingjamesbible-64.png"> King James Bible</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/DebugHelper/"><img valign=middle width=24 height=24 src="./images/dhelp-64.png"> Debug Helper</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/TheHolyBible/"><img valign=middle width=24 height=24 src="./images/theholybible-64.png"> The Holy Bible</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Harmony/"><img valign=middle width=24 height=24 src="./images/harmony-64.png"> Harmony</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Dougi/"><img valign=middle width=24 height=24 src="./images/dougi-64.png"> Dougi</a>
-&nbsp; &nbsp;
+<p>
+<a href="https://github.com/blaiz2023/KingJamesBible/"><img valign=middle width=24 height=24 src="./images/kingjamesbible-64.png"> King James Bible</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/DebugHelper/"><img valign=middle width=24 height=24 src="./images/dhelp-64.png"> Debug Helper</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/TheHolyBible/"><img valign=middle width=24 height=24 src="./images/theholybible-64.png"> The Holy Bible</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Harmony/"><img valign=middle width=24 height=24 src="./images/harmony-64.png"> Harmony</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Dougi/"><img valign=middle width=24 height=24 src="./images/dougi-64.png"> Dougi</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/AnimationViewer/"><img valign=middle width=24 height=24 src="./images/av-64.png"> Animation Viewer</a>
-<br>
+</p>
 
-<a href="https://github.com/blaiz2023/Infinite/"><img valign=middle width=24 height=24 src="./images/infinite-64.png"> Infinite</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Clic/"><img valign=middle width=24 height=24 src="./images/clic-64.png"> Clic</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/HexColor/"><img valign=middle width=24 height=24 src="./images/hexcolor-64.png"> HexColor</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/PickZoom/"><img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/Text2EXE/"><img valign=middle width=24 height=24 src="./images/text2exe-64.png"> Text2EXE</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/MixedCursorCollection/"><img valign=middle width=24 height=24 src="./images/mixedcursorcollection-64.png"> Mixed Cursor Collection</a>
-&nbsp; &nbsp;
-<br>
+<p>
+<a href="https://github.com/blaiz2023/Infinite/"><img valign=middle width=24 height=24 src="./images/infinite-64.png"> Infinite</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Clic/"><img valign=middle width=24 height=24 src="./images/clic-64.png"> Clic</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/HexColor/"><img valign=middle width=24 height=24 src="./images/hexcolor-64.png"> HexColor</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/PickZoom/"><img valign=middle width=24 height=24 src="./images/pickzoom-64.png"> PickZoom</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Text2EXE/"><img valign=middle width=24 height=24 src="./images/text2exe-64.png"> Text2EXE</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/MixedCursorCollection/"><img valign=middle width=24 height=24 src="./images/mixedcursorcollection-64.png"> Mixed Cursor Collection</a>&nbsp;&nbsp;
+</p>
 
-<a href="https://github.com/blaiz2023/YellowCursorCollection/"><img valign=middle width=24 height=24 src="./images/yellowcursorcollection-64.png"> Yellow Cursors</a>
-&nbsp; &nbsp;
-<a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>
-&nbsp; &nbsp;
-</div>
+<p>
+<a href="https://github.com/blaiz2023/YellowCursorCollection/"><img valign=middle width=24 height=24 src="./images/yellowcursorcollection-64.png"> Yellow Cursors</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/CursorCollections/"><img valign=middle width=24 height=24 src="./images/cursors-64.png"> Cursor Collections</a>&nbsp;&nbsp;
 <a href="https://github.com/blaiz2023/DesktopWallpapers/"><img valign=middle width=24 height=24 src="./images/wallpapers-64.png"> Desktop Wallpapers</a>
-&nbsp; &nbsp;
+</p>
