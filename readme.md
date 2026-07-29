@@ -44,7 +44,9 @@
 <a href="https://github.com/blaiz2023/YellowCursorCollection/">Yellow Cursor Collection</a> - 780 standard arrow pointers in an Interactive Archive with various color and animation variants.
 
 <a href="https://github.com/blaiz2023/CursorCollections/">Cursor Collections</a>
+
 <a href="https://github.com/blaiz2023/DesktopWallpapers/">Desktop Wallpapers</a>
+
 </p>
 
 </details>
