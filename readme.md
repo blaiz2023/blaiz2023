@@ -32,9 +32,12 @@
 
 <a href="https://github.com/blaiz2023/PickZoom/">PickZoom</a> - Zoom an image up/down by percentage or pixels, quickly and with ease. WYSIWYG view. Realtime zoomed image dimensions and size.
 
-<a href="https://github.com/blaiz2023/Text2EXE/">Text2EXE</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/MixedCursorCollection/">Mixed Cursor Collection</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/YellowCursorCollection/">Yellow Cursors</a>&nbsp;&nbsp;
-<a href="https://github.com/blaiz2023/CursorCollections/">Cursor Collections</a>&nbsp;&nbsp;
+<a href="https://github.com/blaiz2023/Text2EXE/">Text2EXE</a> - Convert a plain text (txt) or Rich Text Format (rtf) document into a standalone Windows app (exe). Style and edit text in WordPad etc, copy text to Clipboard and paste into Text2EXE, adjust document features, then save to file as a portable app (.exe file).
+
+<a href="https://github.com/blaiz2023/MixedCursorCollection/">Mixed Cursor Collection</a> - 771,000 animated and static cursor schemes and cursors in red, green, blue, yellow, aqua, orange, purple, pink, white, grey, black, brown, rainbow, and custom color.
+
+<a href="https://github.com/blaiz2023/YellowCursorCollection/">Yellow Cursor Collection</a> - 780 standard arrow pointers in an Interactive Archive with various color and animation variants.
+
+<a href="https://github.com/blaiz2023/CursorCollections/">Cursor Collections</a>
 <a href="https://github.com/blaiz2023/DesktopWallpapers/">Desktop Wallpapers</a>
 </p>
